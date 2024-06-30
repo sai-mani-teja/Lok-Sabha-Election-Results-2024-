@@ -1,5 +1,7 @@
 # Lok-Sabha-Election-Results-2024-
 Election Results Analysis Report
+
+
 Data Collection:
 
 The election results data was collected by scraping multiple websites using Python libraries like requests and BeautifulSoup. Each website URL contained a unique identifier corresponding to a specific political party's election results. These identifiers were stored in a list (l) and represented parties in descending order based on the seats they won.
